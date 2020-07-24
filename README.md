@@ -16,10 +16,11 @@ let uniqueId = nodeid();
 
 # Use id
 console.log(uniqueId);
+// ed65fryh
 
 # Manually input length of id(8-50)
 let uniqueId = nodeid(20);
-# ced32swedty67ujhyu5e
+// ced32swedty67ujhyu5e
 ```
 
 ## App Info
