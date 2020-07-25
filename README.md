@@ -20,6 +20,7 @@ console.log(uniqueId);
 
 # Manually input length of id(8-50)
 let uniqueId = nodeid(20);
+console.log(uniqueId);
 // ced32swedty67ujhyu5e
 ```
 
