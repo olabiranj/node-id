@@ -18,26 +18,24 @@ const nodeid = require('node-id');
 
 ### Initialize variable
 
-bash```
+```bash
 let uniqueId = nodeid();
-
-````
+```
 
 ### Use id
-bash```
+
+```bash
 console.log(uniqueId);
 # b733982913edaacc625d864b
-````
+```
 
 or
 
 ### Manually input length of id(8-50)
 
-bash```
+```bash
 let uniqueId = nodeid(20);
-
 # 387d952ec2f47b64d48b
-
 ```
 
 ## App Info
@@ -50,4 +48,7 @@ Olabiran Joshua Olaiya
 ### License
 
 This project is licensed under the MIT License
+
+```
+
 ```
