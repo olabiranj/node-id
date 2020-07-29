@@ -47,4 +47,4 @@ Olabiran Joshua Olaiya
 
 ### License
 
-This project is licensed under the MIT License
+This project is licensed under the [MIT](https://github.com/olabiranj/node-id/LINCENSE) Lincense
