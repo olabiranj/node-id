@@ -1,26 +1,42 @@
 # node-id
 
-A random unique id generator"
+A random unique id generator
 
 ## Quick Start
 
+### Install dependency
+
 ```bash
-# Install dependency
 npm i node-id
+```
 
-# Import dependency
+### Import dependency
+
+```bash
 const nodeid = require('node-id');
+```
 
-# Initialize variable
+### Initialize variable
+
+bash```
 let uniqueId = nodeid();
 
-# Use id
-console.log(uniqueId);
-// ed65fryh
+````
 
-# Manually input length of id(8-50)
+### Use id
+bash```
+console.log(uniqueId);
+# b733982913edaacc625d864b
+````
+
+or
+
+### Manually input length of id(8-50)
+
+bash```
 let uniqueId = nodeid(20);
-// ced32swedty67ujhyu5e
+// 387d952ec2f47b64d48b
+
 ```
 
 ## App Info
@@ -33,3 +49,4 @@ Olabiran Joshua Olaiya
 ### License
 
 This project is licensed under the MIT License
+```
