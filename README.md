@@ -13,6 +13,12 @@ npm i node-id
 ### Import dependency
 
 ```bash
+import nodeid from 'node-id';
+```
+
+or
+
+```bash
 const nodeid = require('node-id');
 ```
 
