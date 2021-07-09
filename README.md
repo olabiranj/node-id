@@ -37,7 +37,7 @@ console.log(uniqueId);
 
 or
 
-### Manually input length of id(8-50)
+### Manually input length of id from 8 to 50 characters
 
 ```bash
 let uniqueId = nodeid(20);
